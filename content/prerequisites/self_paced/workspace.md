@@ -31,7 +31,7 @@ the cloud9 domain, or connecting to the workspace might be impacted.
 {{< /tabs >}}
 
 - Select **Create environment**
-- Name it **eksworkshop**, and take all other defaults
+- Name it **eksworkshop**, and take all other defaults.  If you are having troubles connecting to your IDE, please check your [VPC settings are compatible with Cloud9](https://docs.aws.amazon.com/cloud9/latest/user-guide/vpc-settings.html).
 - When it comes up, customize the environment by closing the **welcome tab**
 and **lower work area**, and opening a new **terminal** tab in the main work area:
 ![c9before](/images/c9before.png)
